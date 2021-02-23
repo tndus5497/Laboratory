@@ -1,0 +1,8 @@
+<!-- -->
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find ros_ekf_cpp)/rviz/default.rviz" />
+  <node pkg="ros_ekf_cpp" type="ros_ekf_cpp" name="ros_ekf_cpp" output="screen" />
+  <node pkg="rosbag" type="play" name="rosbag_play" output="screen" required="true" args="$(find ros_ekf_cpp)/bag_file/184_moderate.bag">
+  </node>
+
+</launch>
