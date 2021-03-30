@@ -128,7 +128,7 @@ py-trees==0.5.12
 pybind11==2.6.1
 pycocotools==2.0.2
 pycparser==2.20
-Pygments==2.7.2
+Pygments==2.7.4
 pyparsing==2.4.7
 pyquaternion==0.9.9
 pyrsistent==0.17.3
