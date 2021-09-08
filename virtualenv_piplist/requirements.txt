@@ -113,7 +113,7 @@ pandocfilters==1.4.3
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==8.3.2
 pkg-resources==0.0.0
 pluggy==0.13.1
 pluginlib==1.11.3
