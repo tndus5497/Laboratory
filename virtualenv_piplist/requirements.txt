@@ -121,7 +121,7 @@ pr2-computer-monitor==1.6.30
 pr2-power-board==1.1.7
 prometheus-client==0.8.0
 prompt-toolkit==3.0.8
-protobuf==3.14.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 py==1.10.0
 py-trees==0.5.12
